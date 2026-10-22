@@ -1,0 +1,27 @@
+# --- secrets (never commit) ---
+backend/secrets/
+backend/.env
+.env
+*.pem
+*.key
+
+# --- python ---
+backend/.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+backend/smoke.db
+backend/preview.db
+
+# --- node ---
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# --- runtime ---
+.logs/
+backend/.tunnel-url.txt
+
+# --- bm ---
+_bmad-output/

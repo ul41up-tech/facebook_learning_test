@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs><linearGradient id="p10" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#4a90d9"/><stop offset="100%" stop-color="#7b5ea7"/>
+  </linearGradient></defs>
+  <rect width="800" height="500" fill="url(#p10)"/>
+  <circle cx="746" cy="234" r="71" fill="#ffffff" opacity="0.16"/><circle cx="206" cy="80" r="121" fill="#ffffff" opacity="0.257"/><circle cx="765" cy="148" r="87" fill="#ffffff" opacity="0.082"/><circle cx="608" cy="182" r="113" fill="#ffffff" opacity="0.23"/><circle cx="771" cy="265" r="147" fill="#ffffff" opacity="0.096"/><circle cx="8" cy="265" r="140" fill="#ffffff" opacity="0.127"/>
+  <text x="40" y="452" font-family="'PingFang TC','Microsoft JhengHei',Arial,sans-serif"
+        font-size="30" fill="rgba(255,255,255,0.9)" font-weight="600">明太子義大利麵</text>
+</svg>
